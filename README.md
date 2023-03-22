@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
 🔭 I’m learned QA manual **yandex practicum**
 
-🌱 I’m currently learning **golang** **python**
+🌱 I’m currently learning **golang**, **python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
