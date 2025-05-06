@@ -2,7 +2,7 @@
 
 🔭 I’m learned QA manual **yandex practicum**
 
-🔭 I’m learned QA automation **stepik**
+🔭 I’m currently learning QA automation **stepik**
 
 🌱 I’m currently learning **golang**, **python**
 
