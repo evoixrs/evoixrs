@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
 
-🔭 I’m learned QA manual **yandex practicum**
+🔭 I’m currently learning QA manual
 
-🔭 I’m currently learning QA automation **stepik**
+🔭 I’m currently learning QA automation
 
 🌱 I’m currently learning **golang**, **python**
 
