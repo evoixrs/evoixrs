@@ -4,7 +4,7 @@
 
 🔭 I’m currently learning QA automation
 
-🌱 I’m currently learning **golang**, **python**
+🌱 I’m currently learning tests on **python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
